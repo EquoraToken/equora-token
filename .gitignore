@@ -26,3 +26,10 @@ coverage/
 
 # Hardhat's temporary test files
 typechain/
+/typechain-types
+
+# solidity-coverage files
+/coverage
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
