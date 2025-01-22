@@ -1,0 +1,15 @@
+{
+  "name": "equora",
+  "version": "1.0.0",
+  "description": "The source code for the Equora project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.18"
+  }
+}
